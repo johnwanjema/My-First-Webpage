@@ -17,4 +17,13 @@ h1 {
     height: 100%;
     width: 50%
   }
+  body {
+    background-color: rgb(228, 189, 19);
+  }
+  strong {
+    color: grey;
+    font-size: 250%;
+    
+  }
+  
   
